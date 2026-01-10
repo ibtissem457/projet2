@@ -2,6 +2,7 @@
 welcome  to Git
 ## Heading 2
 this is paragraphe  h2
+how are you
 
 ''' 
 if (nam=10) {
