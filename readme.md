@@ -2,6 +2,7 @@
 welcome  to Git
 ## Heading 2
 this is paragraphe  h2
+
 ''' 
 if (nam=10){
     console.log(nam);
@@ -9,5 +10,4 @@ if (nam=10){
 
 >Hellow code
 >
->>Hellow World
-
+>>Hellow Wo
